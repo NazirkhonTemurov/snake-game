@@ -1,15 +1,2 @@
 ﻿  Source.cpp
-c:\users\student\source\repos\snake\snake\source.cpp(63): error C2872: left: неоднозначный символ
-  c:\users\student\source\repos\snake\snake\source.cpp(14): note: может быть "eDirection left"
-  d:\program files\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ios(248): note: или       "std::ios_base &std::left(std::ios_base &)"
-c:\users\student\source\repos\snake\snake\source.cpp(65): error C2872: right: неоднозначный символ
-  c:\users\student\source\repos\snake\snake\source.cpp(14): note: может быть "eDirection right"
-  d:\program files\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ios(302): note: или       "std::ios_base &std::right(std::ios_base &)"
-c:\users\student\source\repos\snake\snake\source.cpp(71): error C2440: =: невозможно преобразовать "bool" в "eDirection"
-  c:\users\student\source\repos\snake\snake\source.cpp(71): note: Для преобразования в перечисляемый тип требуется явное приведение (static_cast, приведение в стиле С или приведение в стиле функции)
-c:\users\student\source\repos\snake\snake\source.cpp(80): error C2872: left: неоднозначный символ
-  c:\users\student\source\repos\snake\snake\source.cpp(14): note: может быть "eDirection left"
-  d:\program files\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ios(248): note: или       "std::ios_base &std::left(std::ios_base &)"
-c:\users\student\source\repos\snake\snake\source.cpp(83): error C2872: right: неоднозначный символ
-  c:\users\student\source\repos\snake\snake\source.cpp(14): note: может быть "eDirection right"
-  d:\program files\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ios(302): note: или       "std::ios_base &std::right(std::ios_base &)"
+  snake.vcxproj -> C:\Users\student\source\repos\snake_game\snake-game\x64\Debug\snake.exe
